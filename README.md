@@ -167,7 +167,7 @@ http://<домен>/pages/index.php
 │       ├── products/           # фото товаров + placeholder.svg
 │       └── avatars/            # аватары пользователей (загружаются из кабинета)
 ├── janome_base.sql             # дамп базы: схема + наполнение
-├── seed_admin.php              # разовое создание аккаунтов (удалить после запуска)
+├── .gitattributes              # чтобы вместо hack был php
 ├── .gitignore
 └── README.md
 ```
